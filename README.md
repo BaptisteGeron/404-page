@@ -2,6 +2,6 @@
 
 This is an exercice about creating a 404-error page using HTML & CSS
 
-## link to the github page:
+## link to the Github page:
 
 [Click here](https://baptistegeron.github.io/404-page/)
